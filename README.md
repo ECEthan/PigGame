@@ -2,7 +2,7 @@
 Small HTML/CSS/JS Project demonstrating Frontend Programming Concepts
 
 # Objective:
-Be the first player to reach a target score (commonly 100).
+Be the first player to reach a target score (100 pts).
 
 # Players:
 2 or more players take turns rolling a die (or dice).
@@ -21,5 +21,5 @@ They lose any points they accumulated during that turn.
 A player can "hold" at any time during their turn, adding their current score to their total score and ending their turn.
 This strategy is used to avoid rolling a 1 and losing points.
 ## Winning the Game:
-The first player to reach the target score (e.g., 100 points) wins.
+The first player to reach the target score (100 pts) wins.
 If multiple players reach the target score in the same round, the one with the higher score wins.
