@@ -13,9 +13,7 @@ Each player starts with a score of 0.
 Players take turns rolling a die.
 ## During a Turn:
 The player rolls a die and adds the result to their current score for that turn.
-The player can choose to:
-Roll again to try to accumulate more points in the current turn.
-Hold to save their current score and add it to their total score.
+The player can choose to: (1) Roll again to try to accumulate more points in the current turn or (2) Hold to save their current score and add it to their total score.
 ## Rolling a 1:
 If the player rolls a 1, their current score for the turn is reset to 0, and their turn ends.
 They lose any points they accumulated during that turn.
